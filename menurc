@@ -1340,3 +1340,4 @@
 ; (gtk_accel_path "<Actions>/select/select-all" "<Primary>a")
 ; (gtk_accel_path "<Actions>/dockable/dialogs-histogram" "")
 ; (gtk_accel_path "<Actions>/tools/tools-foreground-select" "")
+
